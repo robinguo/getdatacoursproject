@@ -6,3 +6,6 @@
 
 # R data files from past sessions
 .Rdata
+
+# Mac OS X
+.DS_Store
